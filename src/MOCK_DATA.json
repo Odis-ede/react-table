@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "full_name": "Ede Odinakachukwu J",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Frontend web developer intern with a background in Civil Engineering. Dream Chaser",
+    "gender": "Male",
+    "overall_score": "100"
+  },
+  {
+    "id": 2,
+    "full_name": "Odunze Chidubem",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Frontend web developer intern with a background in Computer science. Hustler",
+    "gender": "Male",
+    "overall_score": "90"
+  },
+  {
+    "id": 3,
+    "full_name": "Vivan Ajoke",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Frontend web developer intern with a background in Computer science. Chef",
+    "gender": "Female",
+    "overall_score": "70"
+  },
+  {
+    "id": 4,
+    "full_name": "Mattew Akachukwu",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Backend web developer intern with a background in Agriculutre. Footballer",
+    "gender": "Male",
+    "overall_score": "23"
+  },
+  {
+    "id": 5,
+    "full_name": "Donald Egesi",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Product Designer and Graphic Designer",
+    "gender": "Male",
+    "overall_score": "80"
+  },
+  {
+    "id": 6,
+    "full_name": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "avatar": "Jersch",
+    "bio_data": "Content Creator and Footballer, Web3 Intern",
+    "gender": "Male",
+    "overall_score": "35"
+  },
+  {
+    "id": 7,
+    "full_name": "Clara Azuka",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Content Creator and Chef, Web3 Intern",
+    "gender": "Female",
+    "overall_score": "79"
+  },
+  {
+    "id": 8,
+    "full_name": "Robert Okafor",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Frontend web developer intern with a background in English. Affiliate Marketer",
+    "gender": "Male",
+    "overall_score": "60"
+  },
+  {
+    "id": 9,
+    "full_name": "Munachi Igbokwe",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Product Designer and Graphic Designer",
+    "gender": "Male",
+    "overall_score": "76"
+  },
+  {
+    "id": 10,
+    "full_name": "Hamid Adamu",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Backend web developer intern with a background in Agriculutre. Footballer",
+    "gender": "Male",
+    "overall_score": "21"
+  },
+  {
+    "id": 11,
+    "full_name": "Neils Okadike",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Backend web developer intern with a background in Biochemistry. Video Editor",
+    "gender": "Male",
+    "overall_score": "57"
+  },
+  {
+    "id": 12,
+    "full_name": "Janetta Igwe",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Product Designer and Instagram Model",
+    "gender": "Female",
+    "overall_score": "89"
+  },
+  {
+    "id": 13,
+    "full_name": "Marvin Rema",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Frontend web developer intern with a background in Music. Musician",
+    "gender": "Male",
+    "overall_score": "58"
+  },
+  {
+    "id": 14,
+    "full_name": "Rolland Chukwu",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Product Designer and Graphic Designer",
+    "gender": "Male",
+    "overall_score": "54"
+  },
+  {
+    "id": 15,
+    "full_name": "Rikki Ademola",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Product Designer and Instagram Model",
+    "gender": "Female",
+    "overall_score": "47"
+  },
+  {
+    "id": 16,
+    "full_name": "Francis Okagbue",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Frontend web developer intern with a background in Computer science. Affilate Marketer",
+    "gender": "Male",
+    "overall_score": "38"
+  },
+  {
+    "id": 17,
+    "full_name": "Wittie Egwu",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Backend web developer intern with a background in Pharmacy. Footballer",
+    "gender": "Male",
+    "overall_score": "86"
+  },
+  {
+    "id": 18,
+    "full_name": "Boonie Benson",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Backend web developer intern with a background in Pharmacy. Footballer",
+    "gender": "Male",
+    "overall_score": "78"
+  },
+  {
+    "id": 19,
+    "full_name": "Nene Agu",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE",
+    "bio_data": "Content Creator and Social Media Marketer, Web3 Intern",
+    "gender": "Female",
+    "overall_score": "86"
+  },
+  {
+    "id": 20,
+    "full_name": "Nwachukwu Sunday",
+    "avatar": "https://unsplash.com/photos/man-in-black-button-up-shirt-ZHvM3XIOHoE q",
+    "bio_data": "Web3 Intern, Footballer",
+    "gender": "Male",
+    "overall_score": "67"
+  }
+]
